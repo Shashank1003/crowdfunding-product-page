@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="56"
+   height="56"
+   version="1.1"
+   id="svg27"
+   sodipodi:docname="icon-bookmark-colored.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs31" />
+  <sodipodi:namedview
+     id="namedview29"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="14.625"
+     inkscape:cx="14.529915"
+     inkscape:cy="28"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg27" />
+  <g
+     fill="none"
+     fill-rule="evenodd"
+     id="g25">
+    <circle
+       fill="#2F2F2F"
+       cx="28"
+       cy="28"
+       r="28"
+       id="circle21"
+       style="fill:#147b74;fill-opacity:1" />
+    <path
+       fill="#B1B1B1"
+       d="M23 19v18l5-5.058L33 37V19z"
+       id="path23"
+       style="fill:#ffffff" />
+  </g>
+</svg>
