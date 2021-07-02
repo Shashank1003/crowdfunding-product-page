@@ -94,6 +94,10 @@ const A = styled.a`
 const NavigationBar = () => {
   const [isClicked, setIsClicked] = useState(false);
 
+  const crossNavbarHandler = (value) => {
+    setIsClicked(value);
+  }
+
   return (
     <Nav>
       {/* <A href="#">crowdfund</A> */}
@@ -113,6 +117,7 @@ const NavigationBar = () => {
 
       <MobileNavbarAdditional
         isClicked={isClicked}
+        crossNavbar={crossNavbarHandler}
         cross={() => {
           setIsClicked(false);
         }}

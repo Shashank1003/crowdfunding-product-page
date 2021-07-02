@@ -75,15 +75,21 @@ const MobileNavbarAdditional = (props) => {
       </NavBar>
       <List>
         <ListItem>
-          <a href="#about">About</a>
+          <a href="#about" onClick={() => props.crossNavbar(false)}>
+            About
+          </a>
         </ListItem>
         <hr />
         <ListItem>
-          <a href="#discover">Discover</a>
+          <a href="#discover" onClick={() => props.crossNavbar(false)}>
+            Discover
+          </a>
         </ListItem>
         <hr />
         <ListItem>
-          <a href="#getStarted">Get Started</a>
+          <a href="#getStarted" onClick={() => props.crossNavbar(false)}>
+            Get Started
+          </a>
         </ListItem>
       </List>
     </Container>
