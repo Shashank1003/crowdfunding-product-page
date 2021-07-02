@@ -35,7 +35,7 @@ const Container = styled.div`
       flex-direction: column;
     }
 
-    h4 {
+    h3 {
       font-weight: 700;
       font-size: 1.2rem;
 
@@ -127,7 +127,7 @@ const ProductCard = (props) => {
   return (
     <Container className={props.itemsLeft < 1 ? "outOfStock" : null}>
       <div className="topPart">
-        <h4>{props.product}</h4>
+        <h3>{props.product}</h3>
         <p>Pledge {props.minPledge} or more</p>
       </div>
 
