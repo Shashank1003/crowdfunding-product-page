@@ -34,10 +34,7 @@ Desktop view (1440px)
 ![](screenshots/desktop-view-1440px.png)
 
 Mobile view (375px) 
-<<<<<<< HEAD
-=======
 
->>>>>>> 9dbfb3dbd82d94ec2e09c60869ac6c2c0f5e6828
 ![](screenshots/mobile-view-375px.png)
 
 ### Links
@@ -68,7 +65,4 @@ This was my first project on React JS and I enjoyed it. I got a good grasp of ho
 
 - Github - [Shashank Gupta](https://github.com/Shashank1003)
 - Frontend Mentor - [@Shashank1003](https://www.frontendmentor.io/profile/Shashank1003)
-<<<<<<< HEAD
 - Email - guptashashank8975@gmail.com
-=======
->>>>>>> 9dbfb3dbd82d94ec2e09c60869ac6c2c0f5e6828
