@@ -34,6 +34,7 @@ Desktop view (1440px)
 ![](screenshots/desktop-view-1440px.png)
 
 Mobile view (375px) 
+
 ![](screenshots/mobile-view-375px.png)
 
 ### Links
