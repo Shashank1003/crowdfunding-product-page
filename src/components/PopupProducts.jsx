@@ -77,7 +77,7 @@ const Container = styled.div`
         bottom: 5px;
       }
 
-      h4 {
+      h3 {
         margin-left: 1.5rem;
         font-weight: 700;
         font-size: 1rem;
@@ -328,9 +328,9 @@ const PopupProducts = (props) => {
             ></div>
           </button>
           <div className="titleWrapper">
-            <h4 className="titleClick" onClick={() => toggle(props.index)}>
+            <h3 className="titleClick" onClick={() => toggle(props.index)}>
               {props.product}
-            </h4>
+            </h3>
             <p className="minPledge">Pledge {props.minPledge} or more</p>
           </div>
           <p className="itemsLeft">

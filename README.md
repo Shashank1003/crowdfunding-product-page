@@ -31,15 +31,15 @@ Users should be able to:
 
 Desktop view (1440px)
 
-![](../screenshots/desktop-view-1440px.png)
+![](screenshots/desktop-view-1440px.png)
 
 Mobile view (375px) 
-![](../screenshots/mobile-view-375px.png)
+![](screenshots/mobile-view-375px.png)
 
 ### Links
 
-- Solution URL : 
-- Live Site URL :
+- Solution URL : https://github.com/Shashank1003/crowdfunding-product-page.git
+- Live Site URL : https://crowdfunding-product-page-liard.vercel.app/
 
 ## My Process
 
@@ -64,3 +64,4 @@ This was my first project on React JS and I enjoyed it. I got a good grasp of ho
 
 - Github - [Shashank Gupta](https://github.com/Shashank1003)
 - Frontend Mentor - [@Shashank1003](https://www.frontendmentor.io/profile/Shashank1003)
+- Email - guptashashank8975@gmail.com
